@@ -85,6 +85,26 @@ QUESTIONS & ANSWERS GENERATED (SERIAL NUMBER WISE)
 3. Q3. Explain the basic execution flow of interpreted scripting languages.
    Ans: Interpreted languages like Python process source statements line-by-line during runtime via an interpreter engine.
 ============================================================
+------------------------------------------------------------------
+                        EXAMMIND AI QUESTION BANK                 
+------------------------------------------------------------------
+
+Q1. What is the fundamental role of Indentation in Python?
+Ans: Indentation in Python is used to define code blocks and scope instead of curly braces, ensuring high code readability.
+
+Q2. How are variables dynamically declared in Python ecosystems?
+Ans: Variables are dynamically declared upon assignment using the assignment operator (=), without requiring explicit data type binding.
+
+Q3. Explain the basic execution flow of interpreted scripting languages.
+Ans: Interpreted languages like Python process source statements line-by-line during runtime via an interpreter engine.
+
+------------------------------------------------------------------
+                     Generated automatically via ExamMind AI
+------------------------------------------------------------------
+
+
+
+
 
 Saving Output to a new PDF: outputs/question_bank_20260609_181530.pdf ...
 
