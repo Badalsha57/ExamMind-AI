@@ -1,11 +1,11 @@
-# ExamMind AI 🧠📄
+# ExamMind AI 
 > **Transform Dense Documents into Structured Study Guides Instantly**
 
 ExamMind AI is an intelligent, interactive, and production-ready educational tool designed to streamline learning workflows. The application automatically ingests heavy `.pdf` and `.docx` documents, auto-detects structural chapters/units, generates dynamic context-aware summaries, and curates customized **Question & Answer Banks** (handling both long and short forms) exported into unique, timestamped PDF packages.
 
 ---
 
-## 🗺️ Architectural Flow & System Structure
+##  Architectural Flow & System Structure
 
 The application architecture and internal runtime pipeline operate via the following sequence:
 
@@ -158,5 +158,6 @@ Ans: Interpreted languages like Python process source statements line-by-line du
 
 ------------------------------------------------------------------
                      Generated automatically via ExamMind AI
-------------------------------------------------------------------#   E x a m M i n d - A I  
+------------------------------------------------------------------#   E x a m M i n d - A I 
+ 
  
