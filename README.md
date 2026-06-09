@@ -38,3 +38,55 @@ The application architecture and internal runtime pipeline operate via the follo
                │
                ▼
 [Dynamic PDF Generation Engine] ───► (Saves unique question_bank_YYYYMMDD_HHMMSS.pdf)
+
+PS D:\exam\exam> python app.py
+Enter File Path: d:\exam\exam\PYTHON PROGRAMMING NOTES.pdf
+Long Questions: 3
+Short Questions: 2
+
+Reading File Contents...
+Finding Chapters...
+
+============================================================
+AVAILABLE CHAPTERS
+============================================================
+1. UNIT I INTRODUCTION DATA, EXPRESSIONS, STATEMENTS
+2. UNIT II CONTROL FLOW, LOOPS Conditionals: Boolean
+3. UNIT III FUNCTIONS, ARRAYS Fruitful functions: ret
+4. UNIT IV LISTS, TUPLES, DICTIONARIES Lists: list op
+5. UNIT V FILES, EXCEPTIONS, MODULES, PACKAGES Files
+============================================================
+
+Select Chapter Number: 1
+
+============================================================
+SELECTED TARGET
+============================================================
+UNIT I INTRODUCTION DATA, EXPRESSIONS, STATEMENTS
+============================================================
+
+Creating Summary...
+============================================================
+SUMMARY GENERATED
+============================================================
+The chapter introduces the foundational paradigms of Python programming, core syntactic rules, indentation standards, interpretation mechanics, and base variable statements.
+============================================================
+
+Generating Questions & Answers...
+============================================================
+QUESTIONS & ANSWERS GENERATED (SERIAL NUMBER WISE)
+============================================================
+1. Q1. What is the fundamental role of Indentation in Python?
+   Ans: Indentation in Python is used to define code blocks and scope instead of curly braces, ensuring high code readability.
+
+2. Q2. How are variables dynamically declared in Python ecosystems?
+   Ans: Variables are dynamically declared upon assignment using the assignment operator (=), without requiring explicit data type binding.
+
+3. Q3. Explain the basic execution flow of interpreted scripting languages.
+   Ans: Interpreted languages like Python process source statements line-by-line during runtime via an interpreter engine.
+============================================================
+
+Saving Output to a new PDF: outputs/question_bank_20260609_181530.pdf ...
+
+PDF Generated Successfully with Answers!
+Saved At: outputs/question_bank_20260609_181530.pdf
