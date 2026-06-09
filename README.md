@@ -1,11 +1,4 @@
-# ExamMind AI 🧠📄
-
-<p align="center">
-  <img src="[https://img.shields.io/badge/Python-3.8+-blue.svg](https://img.shields.io/badge/Python-3.8+-blue.svg)" alt="Python Version">
-  <img src="[https://img.shields.io/badge/Framework-HuggingFace%20Transformers-orange.svg](https://img.shields.io/badge/Framework-HuggingFace%20Transformers-orange.svg)" alt="Framework">
-  <img src="[https://img.shields.io/badge/Model-Flan--T5--Base-red.svg](https://img.shields.io/badge/Model-Flan--T5--Base-red.svg)" alt="AI Model">
-  <img src="[https://img.shields.io/badge/License-MIT-green.svg](https://img.shields.io/badge/License-MIT-green.svg)" alt="License">
-</p>
+# ExamMind AI 
 
 > **Transform Dense Documents into Structured Study Guides Instantly**
 
@@ -13,7 +6,7 @@ ExamMind AI is an intelligent, interactive, and production-ready educational too
 
 ---
 
-## 🗺️ Architectural Flow & System Structure
+##  Architectural Flow & System Structure
 
 The application architecture and internal runtime pipeline operate via the following sequence:
 
